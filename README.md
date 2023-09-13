@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **ardana3.2.1@gmail.com**
 
+- 🎨 Visit my portfolio on **[Ardana's Notion Site](https://ardanarahadiyan.notion.site/)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ardanarahadiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardanarahadiyan" height="30" width="40" /></a>
