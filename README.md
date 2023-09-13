@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ardana</h1>
 <h3 align="center">Geophysics student that is passionate in mobile development</h3>
 
-- 🌱 I’m currently learning **Native Kotlin, UI/UX, and Flutter(soon)**
+- 🌱 I’m currently learning **Native Kotlin, UI/UX, and ReactNative**
 
 - 📫 How to reach me **ardana3.2.1@gmail.com**
 
